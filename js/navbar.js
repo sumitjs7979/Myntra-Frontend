@@ -1,6 +1,6 @@
 function navbar() {
   return `
-      <a href="homepage.html">
+      <a href="index.html">
         <div class="logo">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmcaLWUtIoeiCAjZIl4sP523Ma23rbm5_TvWLbxGmkDnePtvIy8wsg8ktiMGAUvt1q6c&usqp=CAU"
@@ -17,15 +17,15 @@ function navbar() {
             <div class="category-hover-div">
               <div class="category-hover-div-right">
                 <a href="#" class="sub-heading">Topwear</a>
-                <a href="product.html">T-shirt</a>
-                <a href="#">Casual Shirts</a>
-                <a href="#">Formal Shirts</a>
-                <a href="#">Sweatshirts</a>
-                <a href="#">Sweaters</a>
-                <a href="#">Jacket</a>
-                <a href="#">Blazers & Coats</a>
-                <a href="#">Suits</a>
-                <a href="#">Rain Jackets</a>
+                <a href="/html/product.html">T-shirt</a>
+                <a href="/html/product.html">Casual Shirts</a>
+                <a href="/html/product.html">Formal Shirts</a>
+                <a href="/html/product.html">Sweatshirts</a>
+                <a href="/html/product.html">Sweaters</a>
+                <a href="/html/product.html">Jacket</a>
+                <a href="/html/product.html">Blazers & Coats</a>
+                <a href="/html/product.html">Suits</a>
+                <a href="/html/product.html">Rain Jackets</a>
 
                 <div class="drop_line"></div>
 
